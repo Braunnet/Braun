@@ -28,7 +28,10 @@ Open your file explorer.
 Click on the menu bar, type the following text %appdata% and press on the enter key. enter
 Make a new folder named braun. Move the braun.config into that folder.
 
+MINING::::::
+
 Leave the mine.bat file in the same folder you extracted the .zip from
+execute mine.bat to start mining. crtl+c to stop
 
 
 STAKING:::::::
@@ -44,4 +47,6 @@ Enter the your passphrase behind the text "Enter passphrase".
 Click on the button "OK".
 
 You can stake when you have mature coins in your wallet.
+
+
 
