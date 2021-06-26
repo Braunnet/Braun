@@ -42,5 +42,5 @@ Enter the your passphrase behind the text "Enter passphrase".
 
 Click on the button "OK".
 
-Stake can only be generated when you have coins in your wallet.
+You can stake when you have mature coins in your wallet.
 
