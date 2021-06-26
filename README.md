@@ -12,7 +12,7 @@ Website URL HTTPS://megahash.crypto.hosting
 or megahash.crypto on brave browser or opera browser
 
 Braun
-Last PoW block block 2500
+Last PoW block 2500
 Min. stake age 34 hours
 Max. stake age Unlimited
 Coinbase maturity 20 ( + 1 default confirmation) blocks
