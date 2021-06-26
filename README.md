@@ -30,8 +30,9 @@ Make a new folder named braun. Move the braun.config into that folder.
 
 MINING::::::
 
-Leave the mine.bat file in the same folder you extracted the .zip from
-execute mine.bat to start mining. crtl+c to stop
+Leave the mine.bat file in the same folder you extracted the .zip from.
+
+Execute mine.bat to start mining. crtl+c to stop
 
 
 STAKING:::::::
