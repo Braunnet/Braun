@@ -23,7 +23,7 @@ Timestamp May 4 2024 300
 
 
 Braun.conf::::::
-
+Open your file explorer.
 Click on the menu bar, type the following text %appdata% and press on the enter key. enter
 Make a new folder named braun. Move the braun.config into that folder.
 
