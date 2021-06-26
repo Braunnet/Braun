@@ -20,3 +20,27 @@ Target spacing 5 minutes
 Target timespan 10 minutes
 Transaction confirmations 8 ( + 1 default confirmation) blocks
 Timestamp May 4 2024 300
+
+
+
+
+Click on the menu bar, type the following text %appdata% and press on the enter key. enter
+Make a new folder named braun. Move the braun.config into that folder.
+
+Leave the mine.bat file in the same folder you extracted the .zip from
+
+
+STAKING:::::::
+
+Optional: Unlock your wallet for staking.
+
+Go to Settings -> Unlock Wallet.
+
+Tick the option named "*Tick for staking only".
+
+Enter the your passphrase behind the text "Enter passphrase".
+
+Click on the button "OK".
+
+Stake can only be generated when you have coins in your wallet.
+
