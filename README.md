@@ -1,6 +1,8 @@
 # Braun
 First braun download
 
+https://tinyurl.com/BraunNet
+
 brn POW and POS after block 2500
 Algorithm: Scrypt Proof of Work and Proof of Stake
 Coin abbreviation: BRN
